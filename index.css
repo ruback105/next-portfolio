@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.card {
+  padding: 8px;
+  border: 2px solid #000;
+  width: 300px;
+}
+
+p {
+  margin-top: 4px;
+}
+
+body {
+  padding: 8px;
+}
